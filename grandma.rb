@@ -18,6 +18,8 @@ def speak_to_grandma(argument)
   else 
     return "HUH?! SPEAK UP, SONNY!"
   end
+  if argument.upcase? && !argument == ("I LOVE YOU GRANDMA!")
+    return "NO, NOT SINCE 1938!"
 end
    
   
