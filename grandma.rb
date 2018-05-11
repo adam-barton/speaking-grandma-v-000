@@ -13,7 +13,8 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speaking_to_grandma(argument)
-
+  if argument == ("I LOVE YOU GRANDMA!")
+    return "I LOVE YOU TOO PUMPKIN!"
 end
    
   
