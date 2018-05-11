@@ -16,7 +16,7 @@ def speak_to_grandma(argument)
   if argument == ("I LOVE YOU GRANDMA!")
     return "I LOVE YOU TOO PUMPKIN!"
   else 
-     "HUH?! SPEAK UP, SONNY!"
+    return "HUH?! SPEAK UP, SONNY!"
   end
   if argument != ("I LOVE YOU GRANDMA!") && argument.upcase
     return "NO, NOT SINCE 1938!"
