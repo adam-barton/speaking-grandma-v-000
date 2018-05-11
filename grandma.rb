@@ -18,7 +18,9 @@ def speak_to_grandma(argument)
     return "I LOVE YOU TOO PUMPKIN!"
   end
  if argument = String
-   return
+   return "HUH?! SPEAK UP, SONNY!"
+ end
+ 
 end
    
   
