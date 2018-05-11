@@ -18,9 +18,7 @@ def speak_to_grandma(argument)
     return "I LOVE YOU TOO PUMPKIN!"
   end
    argument.upcase?
-    "NO, NOT SINCE 1938!"
-  
-  argument "HUH?! SPEAK UP, SONNY!"
+    return "NO, NOT SINCE 1938!"
   end
 end
    
