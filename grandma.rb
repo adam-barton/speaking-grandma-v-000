@@ -15,8 +15,6 @@
 def speak_to_grandma(argument)
     require 'pry'
     binding.pry
- if argument == "I LOVE YOU GRANDMA!"
- 
 end
    
   
