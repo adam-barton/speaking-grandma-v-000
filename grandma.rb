@@ -13,8 +13,7 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma(argument)
-   if argument.upcase ? "NO, NOT SINCE 1938!" : "HUH?! SPEAK UP, SONNY!"
-  end
+    argument.upcase ? "NO, NOT SINCE 1938!" : "HUH?! SPEAK UP, SONNY!"
   if argument == ("I LOVE YOU GRANDMA!")
     return "I LOVE YOU TOO PUMPKIN!"
   else 
