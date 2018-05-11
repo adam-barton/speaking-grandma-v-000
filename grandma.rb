@@ -14,7 +14,7 @@
 
 def speak_to_grandma(argument)
     
- 
+ if argument == ""
  
 end
    
